@@ -8,9 +8,7 @@ args=["-a","-ls"]
 
 if(len(sys.argv)<2):
     print("Error, Enter some argument")
-    print("-a to Add a task")
-    print("-ls to Display all tasks")
-    print("-d to Delete a task")
+    print("""-a to Add a task\n-ls to Display all tasks""")
     exit()
 
 
