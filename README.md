@@ -7,14 +7,14 @@ python pyTM.py -arg
 for example to add a particular task
 python pyTM.py -a "Write assignment X" 1500
 
-Currently working arguments:
- -[X] -a to add the tasks along with due time
- -[X] -ls to list all the tasks
+Currently working arguments:  
+ -[X] -a to add the tasks along with due time  
+ -[X] -ls to list all the tasks  
 
-Further need of additions :
-  -[ ] -d to delete a particular task
-  -[ ] -u update a particular task
-  -[ ] notifying on due time with a pop up
+Further need of additions :  
+  -[ ] -d to delete a particular task  
+  -[ ] -u update a particular task  
+  -[ ] notifying on due time with a pop up  
   
   
 
